@@ -1,10 +1,6 @@
-# Getting Started with Create React App
+### title
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
-## Available Scripts
-
-In the project directory, you can run:
+Simple React Calculator
 
 ### tags
 
@@ -17,8 +13,4 @@ With its intuitive interface and sleek design, it allows users to effortlessly a
 The calculator supports both whole numbers and decimals, ensuring accurate results for any calculation.
 It also includes additional features such as memory functions, allowing users to store and recall previous calculations.
 Whether you're a student, professional, or simply need a quick calculation, the simple React calculator is the perfect tool to simplify your mathematical tasks.
-
-### title
-
-Simple React Calculator
 
